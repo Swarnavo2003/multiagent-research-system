@@ -1,6 +1,6 @@
 from utils.agent import build_reader_agent, build_search_agent, writter_chain, critic_chain
 
-def run_reserch_pipeline(topic: str) -> dict:
+def run_research_pipeline(topic: str) -> dict:
 
   state = {}
 
