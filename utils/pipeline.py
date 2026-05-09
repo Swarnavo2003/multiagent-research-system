@@ -58,4 +58,4 @@ def run_research_pipeline(topic: str) -> dict:
 
 if __name__ == "__main__":
   topic = input("\n Enter a research topic : ")
-  run_reserch_pipeline(topic=topic)
+  run_research_pipeline(topic=topic)
